@@ -16,7 +16,8 @@ Unity.
 System Requirements
 -------------------
 
-- Unity 2018.1 or later
+- ~~Unity 2018.1 or later~~
+- Unity 2019.4.28f1c1 or later
 
 References
 ----------
